@@ -11,6 +11,8 @@ thoughtful engineering, and modern development practices.
 
 ---
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
 ## 🧰 Languages & Tools
 <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts" />
 <img src="https://skillicons.dev/icons?i=nodejs,express,prisma" />
