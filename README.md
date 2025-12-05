@@ -12,10 +12,10 @@ thoughtful engineering, and modern development practices.
 ---
 
 ## 🧰 Languages & Tools
-[(https://skillicons.dev/icons?i=react,nextjs,js,ts)](https://github.com/twana-ibrahim)
-[(https://skillicons.dev/icons?i=nodejs,express,prisma)](https://github.com/twana-ibrahim)
-[(https://skillicons.dev/icons?i=postgres,mysql,mongodb)](https://github.com/twana-ibrahim)
-[(https://skillicons.dev/icons?i=git,figma,redux,tailwind)](https://github.com/twana-ibrahim)
+[![Frontend](https://skillicons.dev/icons?i=react,nextjs,js,ts)](https://github.com/twana-ibrahim)
+[![Backend](https://skillicons.dev/icons?i=nodejs,express,prisma)](https://github.com/twana-ibrahim)
+[![Database](https://skillicons.dev/icons?i=postgres,mysql,mongodb)](https://github.com/twana-ibrahim)
+[![Tools](https://skillicons.dev/icons?i=git,figma,redux,tailwind)](https://github.com/twana-ibrahim)
 
 ---
 
