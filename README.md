@@ -24,6 +24,9 @@ thoughtful engineering, and modern development practices.
 
 ---
 
+## 🧰 Languages & Tools
+<img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+
 ## 🧰 Tech Stack
 
 **Frontend:**  
