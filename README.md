@@ -10,8 +10,8 @@
   <img src="https://img.shields.io/badge/Framework-Next.js-black" />
   <img src="https://img.shields.io/badge/Mobile-React_Native-58C4DC" />
   <img src="https://img.shields.io/badge/Backend-Node.js-488845" />
-  <img src="https://img.shields.io/badge/Backend-Express.js-63696E" />
-  <img src="https://img.shields.io/badge/Database-PostgreSQL-#36791" />
+  <img src="https://img.shields.io/badge/Backend-Express.js-black" />
+  <img src="https://img.shields.io/badge/Database-PostgreSQL-336791" />
 </p>
 
 ---
