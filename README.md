@@ -6,15 +6,12 @@
 
 <!-- Badges -->
 <p align="center">
-    <img src="https://img.shields.io/badge/Frontend-React-61DAFB" />
-  <img src="https://img.shields.io/badge/Framework-Next.js-000000" />
-  
-    <img src="https://img.shields.io/badge/Mobile-React_Native-61DAFB" />
-  
-    <img src="https://img.shields.io/badge/Backend-Node.js-43853D" />
-  <img src="https://img.shields.io/badge/Backend-Express.js-000000" />
-  
-    <img src="https://img.shields.io/badge/Database-PostgreSQL-336791" />
+  <img src="https://img.shields.io/badge/Frontend-React-58C4DC" />
+  <img src="https://img.shields.io/badge/Framework-Next.js-black" />
+  <img src="https://img.shields.io/badge/Mobile-React_Native-58C4DC" />
+  <img src="https://img.shields.io/badge/Backend-Node.js-488845" />
+  <img src="https://img.shields.io/badge/Backend-Express.js-black" />
+  <img src="https://img.shields.io/badge/Database-PostgreSQL-336791" />
 </p>
 
 ---
