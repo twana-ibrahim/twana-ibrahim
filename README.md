@@ -20,8 +20,9 @@ thoughtful engineering, and modern development practices.
 ---
 
 ## 🤝 Connect
-**LinkedIn:** [Twana Ibrahim](https://www.linkedin.com/in/twana-ibrahim-92057915b)  
-**GitHub:** [@twana-ibrahim](https://github.com/twana-ibrahim)
+[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/twana-ibrahim-92057915b)
+[![Github](https://skillicons.dev/icons?i=github)](https://github.com/twana-ibrahim)
+[![Github](https://skillicons.dev/icons?i=gmail)](mailto:tuwana,ibrahim99@gmail.com)
 
 ---
 
