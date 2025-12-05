@@ -1,18 +1,5 @@
 <!-- Intro -->
 <h1 align="center">👋 Hi, I'm Twana Ibrahim</h1>
-<p align="center">
-  a Software Engineer focused on crafting clean, scalable, and user-centered digital experiences.
-</p>
-
-<!-- Badges -->
-<p align="center">
-  <img title="Git" src="https://img.shields.io/badge/Frontend-React-61DAFB" />
-  <img src="https://img.shields.io/badge/Framework-Next.js-black" />
-  <img src="https://img.shields.io/badge/Mobile-React_Native-61DAFB" />
-  <img src="https://img.shields.io/badge/Backend-Node.js-339933" />
-  <img src="https://img.shields.io/badge/Backend-Express.js-black" />
-  <img src="https://img.shields.io/badge/Database-PostgreSQL-4169E1" />
-</p>
 
 ---
 
@@ -25,7 +12,10 @@ thoughtful engineering, and modern development practices.
 ---
 
 ## 🧰 Languages & Tools
-<img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,prisma" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
+<img src="https://skillicons.dev/icons?i=git,figma,redux,tailwind" />
 
 ## 🧰 Tech Stack
 
