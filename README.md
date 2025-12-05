@@ -6,7 +6,7 @@
 
 <!-- Badges -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Frontend-React-61DAFB" />
+  <img title="Git" src="https://img.shields.io/badge/Frontend-React-61DAFB" />
   <img src="https://img.shields.io/badge/Framework-Next.js-black" />
   <img src="https://img.shields.io/badge/Mobile-React_Native-61DAFB" />
   <img src="https://img.shields.io/badge/Backend-Node.js-339933" />
