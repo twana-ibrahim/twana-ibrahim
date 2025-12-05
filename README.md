@@ -4,15 +4,6 @@
   a Software Engineer focused on crafting clean, scalable, and user-centered digital experiences.
 </p>
 
-<!-- Badges -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Frontend-React-blue" />
-  <img src="https://img.shields.io/badge/Framework-Next.js-black" />
-  <img src="https://img.shields.io/badge/Backend-Node.js-green" />
-  <img src="https://img.shields.io/badge/Database-PostgreSQL-blue" />
-  <img src="https://img.shields.io/badge/Mobile-React_Native-lightgrey" />
-</p>
-
 ---
 
 ## 🚀 About Me
