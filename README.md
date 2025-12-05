@@ -40,20 +40,6 @@ PostgreSQL • MySQL • MongoDB
 
 ---
 
-## 📊 GitHub Analytics (Theme Adaptive)
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=twana-ibrahim&show_icons=true&theme=vision-friendly-dark&hide_border=true&rank_icon=github" alt="Twana's GitHub Stats" />
-    
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=twana-ibrahim&layout=compact&theme=github_dark&hide_border=true" alt="Twana's Top Languages" />
-</p>
-
-<p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=twana-ibrahim&theme=onedark&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</p>
-
----
-
 ## 🤝 Connect
 **LinkedIn:** [Twana Ibrahim](https://www.linkedin.com/in/twana-ibrahim-92057915b)  
 **GitHub:** [@twana-ibrahim](https://github.com/twana-ibrahim)
