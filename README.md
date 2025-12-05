@@ -11,27 +11,11 @@ thoughtful engineering, and modern development practices.
 
 ---
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-
 ## 🧰 Languages & Tools
-<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts" />
-<img src="https://skillicons.dev/icons?i=nodejs,express,prisma" />
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
-<img src="https://skillicons.dev/icons?i=git,figma,redux,tailwind" />
-
-## 🧰 Tech Stack
-
-**Frontend:**  
-React • Next.js • TypeScript • JavaScript  
-
-**Mobile:**  
-React Native  
-
-**Backend:**  
-Node.js • Express • Prisma  
-
-**Database:**  
-PostgreSQL • MySQL • MongoDB  
+[https://skillicons.dev/icons?i=react,nextjs,js,ts](https://github.com/twana-ibrahim)
+[https://skillicons.dev/icons?i=nodejs,express,prisma](https://github.com/twana-ibrahim)
+[https://skillicons.dev/icons?i=postgres,mysql,mongodb](https://github.com/twana-ibrahim)
+[https://skillicons.dev/icons?i=git,figma,redux,tailwind](https://github.com/twana-ibrahim)
 
 ---
 
